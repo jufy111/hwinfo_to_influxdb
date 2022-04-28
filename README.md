@@ -1,4 +1,4 @@
-# HWiNFO to influxDB 2  
+# HWiNFO to influxDB (2.00+)  
 Revision 1.00 28/04/2022  
 Initial push
 
