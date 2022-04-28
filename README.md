@@ -1,12 +1,13 @@
-# HWiNFO to influxDB (2.00+)  
+# HWiNFO to InfluxDB (2.00+)  
 Revision 1.00 28/04/2022  
 Initial push
 
 ## Description and general notes
 The python script pulls HWiNFO via Remote Sensor Monitor and posts it to innfluxDB (version 2 and above only).  
   
-This program does not have to run on the localhost that HWiNFO is running on. I personally have a Docker container running it on my NAS, where the influxDB is also installed. I'll get around to uploading the Docker container to DockerHub eventually.
-The script itself pushes directly to influxDB. It does not require telegraf.
+This program does not have to run on the localhost that HWiNFO is running on. I personally have a Docker container running it on my NAS, where the InfluxDB is also installed. I'll get around to uploading the Docker container to DockerHub eventually.
+The script itself pushes directly to InfluxDB. It does not require telegraf.  
+From InfluxDB, data can be pushed to Grafana to pretty dashboards.
 
 
 ## --------Python Dependancies------------
