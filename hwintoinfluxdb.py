@@ -2,7 +2,6 @@
 #Revision 1.00 28/04/2022
 
 ####Python Dependancies
-#pip install influxdb
 #pip install influxdb_client
 
 ###Other Depenendencices
