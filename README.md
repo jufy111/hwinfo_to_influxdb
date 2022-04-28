@@ -32,3 +32,9 @@ pip install influxdb_client
 Although I have only tested with the pro version, I did see the following comment [here](https://www.reddit.com/r/NiceHash/comments/mmnuxf/update_how_to_make_the_pi_rig_monitor/?utm_source=share&utm_medium=web2x&context=3).
 
 >"You must have HWiNFO pro - as the normal HWiNFO only gives shared memory support for 12 hrs and then resets. This is not an issue but it means that you have to constantly enable it every 12hrs and restart the Remote Sensor Monitor below."
+ 
+  ## Example Grafana Dashboard (minimal effort made)  
+  ![image](https://user-images.githubusercontent.com/40817638/165776304-96a4aa5b-6cbb-4bf8-8980-ffdabc29d0de.png)
+  ![image](https://user-images.githubusercontent.com/40817638/165776411-7fdd2295-5809-427e-865f-25b4e5bdbb45.png)
+
+
