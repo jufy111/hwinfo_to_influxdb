@@ -32,7 +32,7 @@ from influxdb_client.client.write_api import SYNCHRONOUS
 # InfluxDB Database Details
 token = "5Bn-0sJQIPMmq28lUXyfmBSWQjEJMj0qHgWRSz-5Ku2-er52wrxRWl7Yr1Sum7qIG8GbMEw4zuPFdv7Y6BkooA=="   ##sampledb
 org = "yourinfluxDBorghere"
-bucket = "yourbuckernamehere"
+bucket = "yourbucketnamehere"
 db_url = "http://192.168.1.100:8086"
 
 # Variables of PC
